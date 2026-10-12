@@ -1,0 +1,6 @@
+{
+  "name": "Casa Vacanze Dolcedo",
+  "description": "Appartamento vacanze ristrutturato affacciato sulla piazza principale di Dolcedo, Liguria. Il comfort di casa, il carattere autentico del borgo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
